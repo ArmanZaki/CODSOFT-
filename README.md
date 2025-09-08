@@ -8,7 +8,7 @@ By analyzing features such as demographics, usage behavior, and account details,
 ## 🚀 Features
 
 ### 🧹 Data Preprocessing
-- Dropped irrelevant columns (`RowNumber`, `CustomerId`, `Surname`)
+- Dropped irrelevant columns (`RowNumber`, `CustomerId`, `SurName`)
 - Encoded categorical variables using **Label Encoding** & **One-Hot Encoding**
 - Scaled numerical features with **StandardScaler**
 
